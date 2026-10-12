@@ -1,0 +1,5 @@
+{
+  "name": "Lectura - AI Lecture Summarizer",
+  "description": "An advanced academic tool that transforms lecture transcripts into concise, high-quality summaries using hybrid NLP techniques.",
+  "requestFramePermissions": []
+}
